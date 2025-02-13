@@ -1,0 +1,126 @@
+{
+  "name": "Vijay",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Vijay Singh - passionate",
+  "headerTaglineThree": "ReactJS developer",
+  "headerTaglineFour": "based in Jaipur, Rajasthan.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/KENZO-01"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/vijay-singh-7737281b4/"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:vijaysingh17102000@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "dokifi.ai",
+      "description": "Dokifi.ai is an AI-powered bid writing platform that automates proposal creation through collaborative workflows, advanced document editing, and AI features. It offers streamlined proposal creation, a knowledge base system, real-time analytics, and subscription-based access.",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://dokifi.ai/"
+    },
+    {
+      "id": "2",
+      "title": "DKV (Deep knowledge venture)",
+      "description": "DKV is a comprehensive health and wellness platform that tracks and improves physical activity, nutrition, and mental well-being through a health metrics tracker, personalized meal planning, and mindfulness features.",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://www.longevity.group/"
+    },
+    {
+      "id": "3",
+      "title": "Gati se Pragati",
+      "description": "Gati Se Pragati is a container management platform for Indian GSP group operations, offering real-time tracking, integrated payment processing, and a user portal for scheduling and monitoring container movements.",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://authgsptp.dev.codetrade.io/auth/"
+    },
+    {
+      "id": "4",
+      "title": "secrets fine food",
+      "description": "Secrets Fine Food is a premium food e-commerce platform offering detailed nutritional information and advanced filtering. Features include a comprehensive product catalog, sophisticated search tools, and personalized recommendations during checkout for an optimized shopping experience.",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://www.secretsfinefood.com/"
+    },
+    {
+      "id": "5",
+      "title": "Link and learn",
+      "description": "Link and Learn is a customized Open-EdX learning platform built with ReactJS for course delivery and certification management. Features include streamlined navigation, interactive quizzes with instant feedback, and automated certification tracking through a subscription system.",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+"services": [
+  {
+    "id": "1",
+    "title": "ReactJS Development",
+    "description": "We specialize in building dynamic and responsive web applications using ReactJS, ensuring a seamless user experience and high performance."
+  },
+  {
+    "id": "2",
+    "title": "Component Design",
+    "description": "We create reusable and modular components that enhance the maintainability and scalability of your application, making it easier to manage and update."
+  },
+  {
+    "id": "3",
+    "title": "State Management Solutions",
+    "description": "We implement effective state management strategies using tools like Redux or Context API to ensure your application remains efficient and organized."
+  },
+  {
+    "id": "4",
+    "title": "API Integration",
+    "description": "We connect your React applications to various APIs, enabling real-time data fetching and interaction with backend services for a richer user experience."
+  },
+  {
+    "id": "5",
+    "title": "Performance Optimization",
+    "description": "We analyze and optimize your React applications for speed and efficiency, employing techniques like code splitting, lazy loading, and memoization."
+  },
+  {
+    "id": "6",
+    "title": "Responsive Design Implementation",
+    "description": "We ensure your web applications are fully responsive and accessible across all devices, providing a consistent experience for all users."
+  },
+  {
+    "id": "7",
+    "title": "Testing and Quality Assurance",
+    "description": "We implement robust testing strategies using tools like Jest and React Testing Library to ensure your application is bug-free and performs as expected."
+  }
+],
+  "aboutpara": "I am a results-driven Software Developer with a strong focus on modern web technologies and frontend architecture. With a proven track record of leading high-impact projects, I excel in mentoring development teams to enhance application performance and boost user engagement. My collaborative approach allows me to work effectively with cross-functional teams, implementing best practices and driving technical excellence in every aspect of software development. I am passionate about creating innovative solutions that not only meet user needs but also elevate the overall digital experience.",
+
+    "resume": {
+    "tagline": "👋 I'm a frontend engineer and UI enthusiast.",
+    "description": "I create engaging user experiences for diverse audiences. Proficient in ReactJS, JavaScript, and various modern web frameworks.",
+    "experiences": [
+    {
+        "id": "1",
+        "dates": "JAN 2023 - Present",
+        "type": "Full Time",
+        "position": "Software Developer at Codetrade.io",
+        "bullets": "Led high-impact projects, improving performance and user experience, \nArchitected scalable frontend solutions, reducing migration bugs by 40%, \nDeveloped responsive interfaces with modern UI frameworks, increasing user engagement by 25%, \nMentored junior developers in best practices, fostering technical excellence."
+    }
+    ],
+    "education": {
+        "universityName": "Arya Institute of Engineering and Technology, Jaipur, Rajasthan",
+        "universityDate": "2019-2023 ( 9 SGPA )",
+        "universityPara": "I studied Computer Science Engineering as my major and completed my Bachelor of Technology degree. This program provided me with a strong foundation in software development, algorithms, and data structures, equipping me with the skills necessary to excel in the tech industry."
+    },
+    "languages": ["JavaScript (ES6+)", "HTML5", "CSS"],
+    "frameworks": ["ReactJS", "Redux Toolkit", "TanStack Query", "Axios"],
+    "uiFrameworks": ["Tailwind CSS", "Material UI", "ShadCN UI", "AntUI"],
+    "developmentTools": ["Git", "AWS", "Docker"]
+  }
+}
